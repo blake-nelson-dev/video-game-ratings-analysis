@@ -12,14 +12,7 @@ This project analyzes a dataset of video game ratings from IMDB to investigate w
 [![IMDB Video Game Ratings](https://img.youtube.com/vi/f8cvHWCq0Ag/maxresdefault.jpg)](https://www.youtube.com/watch?v=f8cvHWCq0Ag)
 
 #### Slide Deck
-📄 View our detailed presentation slides:
-<details>
-<summary>Click to expand presentation PDF</summary>
-
-<embed src="Project Presentation.pdf" type="application/pdf" width="100%" height="600px" />
-
-You can also [download the PDF directly](Project%20Presentation.pdf)
-</details>
+📄 View our detailed presentation slides or [download the PDF directly](Project%20Presentation.pdf).
 
 ## Dataset
 
@@ -79,7 +72,7 @@ python src/model_training.py
 jupyter notebook notebooks/imbd_videogames.ipynb
 ```
 
-You can also view the analysis in Google Colab: [Project Notebook](https://colab.research.google.com/drive/1nUpkvEUmUMNg2-F0l2xk2y2AlVG1btCH)
+You can also view the analysis in Google Colab
 
 ## Key Findings
 
